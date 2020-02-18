@@ -1,4 +1,4 @@
-//META{"name":"Bear Smoothie","description":"Home-made dark theme","author":"Bear","version":"-latest"}*//{}
+//META{"name":"Bear Smoothie","description":"Smoothed-out dark theme.","author":"Bear","version":"-latest"}*//{}
 
 
 :root {
@@ -40,6 +40,11 @@
 .da-searchBar:hover,.da-icon:hover,.content-3at_AU:hover,.scrollableContainer-2NUZem:hover,.peopleListItem-2nzedh:hover{ background-color: rgba(0,0,0,.15) !important}
 .scrollableContainer-2NUZem, .webkit-HjD9Er, .da-unreadPillCapStroke {background-color: rgba(0,0,0,0) !important; transition: .3s background-color; fill:rgba(200,20,20,1); color:rgba(200,20,20,1)}
 .emoji.jumboable {min-height: 3rem !important;}
+.compact-239Dlz .emoji.jumboable {
+    width: 1.375em;
+    height: 1.375em;
+    min-height: 1.375em !important;
+}
 .wrapper-2aW0bm,.form-2fGMdU, .form-2fGMdU::before, .emojiButton-3uL3Aw {background: transparent !important; box-shadow: none !important; background-color: transparent !important;}
 .isUnread-3Ef-o9{border-color: rgba(0,0,0,0); background-color: rgba(200,20,20,1) !important; background: rgba(0,0,0,0);}
 .content-1o0f9g {border-color: rgba(0,0,0,0); background-color: rgba(200,20,20,0) !important; background: rgba(0,0,0,0);}
@@ -131,7 +136,7 @@
 .theme-dark .uploadModal-2ifh8j,.theme-dark .footer-3mqk7D,.footer-1kmXd4,.inner-2P4tQO,.popoutBottom-2GAFPg.noArrow-2foL9g,.headerSpotify-zpWxgT,
 .headerStreaming-2FjmGz{background-color: rgba(25,25,25,.9) !important;}
 .messageGroupCozy-2iY6cT,.topSectionSpotify-1lI0-P,.headerXbox-3G-4PF,.menu-Sp6bN1,.theme-dark .calendarPicker-2yf6Ci .react-datepicker,
-.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header,.theme-dark .container-3ayLPN {background-color: rgba(25,25,25,.9) !important;}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header,.theme-dark .container-3ayLPN{background-color: rgba(25,25,25,.9) !important;}
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled {background-color: transparent;}
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day-name,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__current-month,
 .theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw,.theme-dark .paymentPane-3bwJ6A,.theme-dark .paginator-166-09,.theme-dark .payment-xT17Mq,.theme-dark .codeRedemptionRedirect-1wVR4b{background-color: rgba(25,25,25,.9); color: var(--main-color);}
