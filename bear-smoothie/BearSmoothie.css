@@ -36,6 +36,7 @@
 ::-webkit-scrollbar {width: 8px !important;}
 ::-webkit-scrollbar-thumb {border: 1px solid var(--color) !important;background-color: hsla(0, 0%, 0%, 1) !important}
 .da-inner,.container-2ax-kl{background-color: rgba(0,0,0,0) !important;}
+.inner-ZyuQk0{background-color: var(--backgroundDark)!important;}
 .inner-zqa7da {border-radius: 20px;}
 .da-searchBar:hover,.da-icon:hover,.content-3at_AU:hover,.scrollableContainer-2NUZem:hover,.peopleListItem-2nzedh:hover{ background-color: rgba(0,0,0,.15) !important}
 .scrollableContainer-2NUZem, .webkit-HjD9Er, .da-unreadPillCapStroke {background-color: rgba(0,0,0,0) !important; transition: .3s background-color; fill:rgba(200,20,20,1); color:rgba(200,20,20,1)}
