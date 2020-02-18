@@ -30,12 +30,6 @@
 .searchHeader-1l-wpR,.channelName-1QajIf,.searchResult-3pzFAB .hit-NLlWXA .messageGroupCozy-1BZuO8,.customHeader-f9DEJ_,.appMount-3lHmkl,.theme-dark .container-1D34oG,
 .actionButton-uPB8Fs,.theme-dark .message-2qRu38{background-color:var(--backgroundDark)!important}
 
-
-/* ----------------- LATEST ADDITIONS ------------------- */
-/* .da-blockedSystemMessage {display:none;} */
-.da-chatContent > .da-messagesWrapper > .da-scrollerWrap  .da-groupStart:not(.da-message) {
-    display: none;
-}
 #content-3at_AU:focus{background-color: rgba(0,0,0,.9)!important}
 #bda-qem-favourite-container, #bda-qem-twitch-container{border-color: #000000 !important;}
 ::-webkit-scrollbar-track-piece {background-color: hsla(0, 0%, 0%, 0) !important;border:none !important}
