@@ -163,7 +163,7 @@
 .bda-slist .bda-footer a{color:#666666;}
 .lookFilled-1Gx00P.colorBrand-3pXr91,.lookFilled-1Gx00P.colorGreen-29iAKY:hover,#bd-customcss-attach-controls .help-text .inline{background-color:#333333;}
 #bda-qem button.active, #bda-qem button.active:hover,#bda-qem button,#bda-qem button:hover,#bda-qem,
-#bda-qem-favourite-container, #bda-qem-twitch-container{background-color:rgba(25,25,25,1) !important; border-color:rgba(25,25,25,1);}
+#bda-qem-favourite-container, #bda-qem-twitch-container,.bf-toolbar::before{background-color:rgba(25,25,25,1) !important; border-color:rgba(25,25,25,1);}
 
 	.bd-blue .nsfw-1jCH4N,.nsfw-1jCH4N {background-color: rgba(0,0,0,.7)!important;box-shadow:0 0 0 1px hsla(216,4%,74%,.3),0 2px 10px 0 rgba(0,0,0,.1)!important}
 	.bda-dark #bda-qem-line-container .scroller::-webkit-scrollbar-thumb,.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-thumb,
