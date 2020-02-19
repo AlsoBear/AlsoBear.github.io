@@ -13,6 +13,7 @@
 	--interactive-normal: #777777;
 	--interactive-active: #999999;
 	--background-modifier-hover: rgba(0,0,0,0);
+	--background-mentioned-hover: rgba(47,47,47,.5);
 	--backgroundDark: rgba(20, 20, 20, 1);
 }
 
@@ -67,7 +68,8 @@
 
 .wrapper-2aW0bm{top: -25px;}
 .emojiButton-jE9tXC, .emojiSeparator-10VgEJ, .nowPlayingColumn-2sl4cE, .scrollerWrap-2IJEkd,.children-19S4PO:after{display: none; max-width: 0px; min-width: 0px;}
-.button-1ZiXG9, .isHeader-2dII4U {top:1rem;}
+/* .button-1ZiXG9{topt:-16px;} */
+.container-3npvBV{position:static;}
 .wrapper-1Rf91z,.tabBar-ZmDY9v,.circleIconButton-jET_ig,.container-1D34oG,.peopleList-3c4jOR,.theme-dark .container-1D34oG {background-color: rgba(0,0,0,0);}
 .popout-2iWAc-{background-color: rgba(30,30,30,1) !important;}
 .markup-2BOw-j code,.selected-ugP_am{background: rgba(0,0,0,.15); background-color: rgba(0,0,0,.3) !important;}
@@ -140,7 +142,7 @@
 .theme-dark .uploadModal-2ifh8j,.theme-dark .footer-3mqk7D,.footer-1kmXd4,.inner-2P4tQO,.popoutBottom-2GAFPg.noArrow-2foL9g,.headerSpotify-zpWxgT,
 .headerStreaming-2FjmGz{background-color: rgba(25,25,25,1) !important;}
 .messageGroupCozy-2iY6cT,.topSectionSpotify-1lI0-P,.headerXbox-3G-4PF,.menu-Sp6bN1,.theme-dark .calendarPicker-2yf6Ci .react-datepicker,
-.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header,.theme-dark .container-3ayLPN{background-color: rgba(25,25,25,1) !important;}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header,.theme-dark .container-3ayLPN,.button-1ZiXG9.selected-LCBEAU{background-color: rgba(25,25,25,1) !important;}
 
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled {background-color: transparent;}
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day-name,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__current-month,
@@ -152,7 +154,7 @@
 .mentioned-xhSam7,.mouse-mode .mentioned-xhSam7:hover,.ace-monokai,.contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls{background-color: rgba(47,47,47,.5);}
 .ace-monokai .ace_gutter,.standardSidebarView-3F1I7i #bd-customcss-attach-controls button{background-color:rgba(40,40,40,.5);}
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item{color:var(--interactive-normal);}
-.theme-dark #bd-settings-sidebar .ui-tab-bar-item:hover{background:transparent;}
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item:hover,.theme-dark .popoutList-T9CKZQ{background:transparent;}
 .bda-slist .bda-footer a{color:#666666;}
 .lookFilled-1Gx00P.colorBrand-3pXr91,.lookFilled-1Gx00P.colorGreen-29iAKY:hover,#bd-customcss-attach-controls .help-text .inline{background-color:#333333;}
 #bda-qem button.active, #bda-qem button.active:hover,#bda-qem button,#bda-qem button:hover,#bda-qem,
