@@ -207,3 +207,4 @@
 #app-mount div[style*="border-color: rgb(114, 137, 218)"]{border-color: #555555 !important;}
 .input-cIJ7To.focused-1mmYsC, .input-cIJ7To:focus,.theme-dark .lookFilled-1h1y05.select-1Pkeg4:focus{border-color: var(--deprecated-text-input-border) !important;}
 #app-mount polyLine[stroke*="#7289da"]{stroke:#777777 !important;}
+#app-mount div[style*="border-color: rgb(29, 161, 242);"]{border-color: var(--text-link) !important;}
