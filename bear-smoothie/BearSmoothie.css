@@ -124,7 +124,7 @@
  .infoBarEmoji-3Ab8rZ { height: 40px !important; width: 40px !important;}
  
  .infoBar-U6oBFk {height: 40px; background-color: rgba(25,25,25,1)}
- .theme-dark .root-1gCeng{background-color: rgba(20,20,20,1);}
+ .theme-dark .root-1gCeng,.input-2VB9rf{background-color: rgba(20,20,20,1);}
  .backdrop-1wrmKB{background-color:rgba(0,0,0,.23) !important;}
  .emojiPicker-3m1S-j .categories-1feg4n {
 	padding: 0 15px!important;
@@ -136,7 +136,7 @@
  }
  .emoji-1PSQtY,.emoji{height:30px;width:30px;}
  .autocompleteInner-zh20B_,.theme-dark .selectorSelected-1_M1WV,.theme-dark .modal-yWgWj-,.topSectionXbox-3fWLjS,#permissions-modal-wrapper .header,
- #permissions-modal-wrapper .role-side,#permissions-modal-wrapper .perm-side{background-color:rgba(25,25,25,1);}
+ #permissions-modal-wrapper .role-side,#permissions-modal-wrapper .perm-side,.quickswitcher-3JagVE{background-color:rgba(25,25,25,1);}
  .childWrapper-anI2G9{background-color: transparent;}
 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9{background-color: rgb(40,40,40);}
 .grid-1nZz7S {background-color: rgba(10,10,10,.7);}
@@ -187,7 +187,7 @@
 .lookInverted-2D7oAl.colorBrand-3pXr91:hover,.theme-dark .option-96V44q.selected-rZcOL- {
     background-color: rgba(30,30,30,1);
 }
-.da-flex{background:transparent !important;}
+.da-flex,#app-mount > div:nth-child(5) > div:nth-child(2) > div.modal-3c3bKg.da-modal > div.inner-1ilYF7.da-inner > div > div > div.scrollerWrap-2lJEkd.da-scrollerWrap.scrollerOuter-3FLELE.da-scrollerOuter.scrollerThemed-2oenus.da-scrollerThemed.themeGhost-28MSn0.scrollerTrack-1ZIpsv.da-scrollerTrack > div{background:transparent !important;}
 .titleBar-AC4pGV,.withFrame-haYltI  {background-color: rgba(20,20,20,1) !important; padding: 4px;}
 .newMessagesBar-mujexs{background-color: rgba(84, 107, 188);}
 .attachWrapper-2TRKBi{border-right: 1px solid transparent;}
