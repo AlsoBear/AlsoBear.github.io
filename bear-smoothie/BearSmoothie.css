@@ -51,13 +51,14 @@
 .unreadPill-2HyYtt {
     top: -7px;
     right: 0;
-    font-size: 10px;
+    font-size: 10.5px;
     line-height: 9px;
     font-weight: 900;
+	text-shadow: 0.5px #000;
     padding: 0 6px 0 1px;
     border-radius: 0 6px 6px 0;
     text-transform: uppercase;
-    color: #000;
+    color: rgb(30,30,30);
     background-color: rgba(200,20,20,1);
     47 */-webkit-box-sizing: center-box;
     box-sizing: center-box;
@@ -151,6 +152,7 @@
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:after,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:hover,
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day:hover,.theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw .hintValue-29ny8Z,.themeDefault-24hCdX.valueChecked-m-4IJZ,.lookFilled-1Gx00P.colorBrand-3pXr91:hover,
 .mentioned-xhSam7:before,#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked,.bd-pfbtn,.bda-slist .bda-footer button{background-color: #555555 !important;}
+.wrapper-3WhCwL,.wrapper-3WhCwL:hover,.theme-dark .mentioned-xhSam7 .mention.interactive:hover, .theme-light .mentioned-xhSam7 .mention.interactive:hover{color:var(--selection-color);}
 .mentioned-xhSam7,.mouse-mode .mentioned-xhSam7:hover,.ace-monokai,.contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls{background-color: rgba(47,47,47,.5);}
 .ace-monokai .ace_gutter,.standardSidebarView-3F1I7i #bd-customcss-attach-controls button{background-color:rgba(40,40,40,.5);}
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item{color:var(--interactive-normal);}
@@ -194,3 +196,4 @@
 .css-15ejc46-control:hover,.css-2yldzf-control:hover{border-color: rgba(33,33,33,1);}
 .sidebar-2K8pFh div[style="width: 100%; height: 84px; visibility: hidden;"]{height:0px !important;}
 .theme-dark .themedPopout-1TrfdI{background-color:rgb(25,25,25); border: 1px solid rgba(25,25,25,.8);}
+.checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked+span{background-color:#555555; border-color:#555555;}
