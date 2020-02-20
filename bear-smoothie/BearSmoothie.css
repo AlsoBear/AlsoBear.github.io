@@ -209,3 +209,4 @@
 #app-mount polyLine[stroke*="#7289da"]{stroke:#777777 !important;}
 #app-mount div[style*="border-color: rgb(29, 161, 242);"]{border-color: var(--text-link) !important;}
 .after_inlineCode-1KfVgj, .before_inlineCode-1G9rTK, .inlineCode-2ngu6Y{background-color: rgba(50,50,50,.8);}
+.numberBadge-2s8kKX{background-color: rgba(50,50,50,.9) !important; color: var(--interactive-active) !important;}
