@@ -155,7 +155,8 @@
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:after,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:hover,
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day:hover,.theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw .hintValue-29ny8Z,.themeDefault-24hCdX.valueChecked-m-4IJZ,.lookFilled-1Gx00P.colorBrand-3pXr91:hover,
 .mentioned-xhSam7:before,#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked,.bd-pfbtn,.bda-slist .bda-footer button{background-color: #555555 !important;}
-.wrapper-3WhCwL,.wrapper-3WhCwL:hover,.theme-dark .mentioned-xhSam7 .mention.interactive:hover, .theme-light .mentioned-xhSam7 .mention.interactive:hover{color:var(--selection-color);}
+.wrapper-3WhCwL,.theme-dark .mentioned-xhSam7 .mention.interactive:hover, .theme-light .mentioned-xhSam7 .mention.interactive:hover{color:var(--selection-color);}
+.wrapper-3WhCwL:hover{color:var(--selection-color); text-decoration: underline;} 
 .mentioned-xhSam7,.mouse-mode .mentioned-xhSam7:hover,.ace-monokai,.contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls{background-color: rgba(47,47,47,.5);}
 .ace-monokai .ace_gutter,.standardSidebarView-3F1I7i #bd-customcss-attach-controls button{background-color:rgba(40,40,40,.5);}
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item{color:var(--interactive-normal);}
