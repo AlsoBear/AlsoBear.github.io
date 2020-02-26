@@ -126,7 +126,7 @@
  
  .infoBar-U6oBFk {height: 40px; background-color: rgba(25,25,25,1)}
  .theme-dark .root-1gCeng,.input-2VB9rf{background-color: rgba(20,20,20,1);}
- .backdrop-1wrmKB{background-color:rgba(0,0,0,.23) !important;}
+ .backdrop-1wrmKB,.backdropWithLayer-3_uhz4{background-color:rgba(0,0,0,.23) !important; backdrop-filter: blur(1px);}
  .emojiPicker-3m1S-j .categories-1feg4n {
 	padding: 0 15px!important;
 	margin: 0!important;
@@ -199,7 +199,7 @@
 .newMessagesBar-mujexs{background-color: rgba(84, 107, 188);}
 .attachWrapper-2TRKBi{border-right: 1px solid transparent;}
 .tabBarContainer-1s1u-z{border-top: 1px solid transparent;}
-.note-3kmerW textarea:focus,.theme-dark .focused-2bY0OD,#app-mount > div:nth-child(5) > div:nth-child(2) > div.modal-3c3bKg.da-modal > div.inner-1ilYF7.da-inner > div > div.body-3ND3kc.da-body > div > div{background-color: rgba(25,25,25,1) !important;}
+.note-3kmerW textarea:focus,.theme-dark .focused-2bY0OD,#app-mount > div:nth-child(5) > div:nth-child(2) > div.modal-3c3bKg.da-modal > div.inner-1ilYF7.da-inner > div > div.body-3ND3kc.da-body > div > div,.flex-1xMQg5{background-color: rgba(25,25,25,1) !important;}
 .css-hcn6i1-menu,.css-181m2lf-menu{background-color: rgba(33,33,33,1);}
 .css-15ejc46-control,.css-2yldzf-control{border-color: transparent;}
 .css-15ejc46-control:hover,.css-2yldzf-control:hover{border-color: rgba(33,33,33,1);}
