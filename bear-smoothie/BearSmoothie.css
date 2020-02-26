@@ -19,6 +19,7 @@
 	--text-link:rgb(124, 157, 198);
 	--deprecated-text-input-border-hover:#555555;
 	--deprecated-text-input-border:#333333;
+	--elevation-high:var(--elevation-medium);
 }
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .typeWindows-15E0Ys,.appMount-3lHmkl{background: rgba(0, 0, 0, 0.18) !important;}
 .activityFeed-1C0EmJ,.appMount-3VJmYg,.applicationStore-1pNvnv,
