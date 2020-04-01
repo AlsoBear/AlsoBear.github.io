@@ -140,6 +140,9 @@
  
  .infoBar-U6oBFk {height: 40px; background-color: rgba(25,25,25,1)}
  .theme-dark .root-1gCeng,.input-2VB9rf{background-color: rgba(20,20,20,1);}
+ /*Folder code*/
+ .folder-21wGz3{background-color: rgba(25,25,25,1);}
+ .folder-21wGz3.hover-2ji_A7 {background-color: rgba(40,40,40,1);}
  .backdrop-1wrmKB,.backdropWithLayer-3_uhz4{background-color:rgba(0,0,0,.23) !important; backdrop-filter: blur(1px);}
  .emojiPicker-3m1S-j .categories-1feg4n {
 	padding: 0 15px!important;
