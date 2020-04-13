@@ -266,3 +266,9 @@
 .da-expandedFolderBackground{display:none;}
 /*top box-shadow*/
 .content-yTz4x3:before,.header-2o-2hj,.searchBar-6Kv8R2,.tabBody-3YRQ8W:before,.container-xm7Ad0:before{box-shadow: none;}
+/* CALL UI */
+#app-mount [class*="alignCenter-1dQNNs noWrap-3jynv6 background-ujHpbY da-background"],#app-mount [class*="noWrap-3jynv6 videoGridWrapper-2BDlMX da-videoGridWrapper"],.flexCenter-2Y_vCg{background-color: rgb(20,20,20) !important;}
+.gradientContainer-10lXLB{display:none;}
+.border-3dQmSY.speaking-WDn8Wm{	background-color: rgba(255,255,255,.07); box-shadow: inset 0 0 0 0px rgb(255,255,255);}
+.selectedScreen-3aLLjg,.overlayTitle-8IcS01{background: none;}
+.overlayTitle-8IcS01{padding: 0px;}
