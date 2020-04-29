@@ -271,3 +271,5 @@
 .border-3dQmSY.speaking-WDn8Wm{	background-color: rgba(255,255,255,.07); box-shadow: inset 0 0 0 0px rgb(255,255,255);}
 .selectedScreen-3aLLjg,.overlayTitle-8IcS01{background: none;}
 .overlayTitle-8IcS01{padding: 0px;}
+/* USER POPOUT COLOR FIX */
+#app-mount > div:nth-child(6) > div.modal-3c3bKg.da-modal > div > div:nth-child(3) > div > div.body-3ND3kc.da-body > div > div {background-color: rgb(25,25,25)!important;
