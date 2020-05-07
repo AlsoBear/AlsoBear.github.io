@@ -141,18 +141,38 @@
  .backdrop-1wrmKB,.backdropWithLayer-3_uhz4{background-color:rgba(0,0,0,.23) !important; backdrop-filter: blur(1px);}
 
 /* EMOJI PICKER */
- .emojiPicker-3m1S-j,.contentWrapper-2txmjs,.categoryWrapper-UZ5YNj,.searchBar-5di9mG,.inspector-3LQtX9,.unicodeShortcut-15J8Ck
+ .emojiPicker-3m1S-j,.contentWrapper-2txmjs,.categoryWrapper-UZ5YNj,.searchBar-5di9mG,.inspector-3LQtX9,.unicodeShortcut-15J8Ck,.header-8ilj5e,.diversitySelectorPopout-3FiGaM
 {
 	background-color: rgba(25,25,25,1) !important;
  }
 #emoji-picker-tab-panel > div.emojiPicker-3PwZFl.da-emojiPicker > div.bodyWrapper-3G0FZZ.da-bodyWrapper > div > div > div > div,#emoji-picker-tab-panel > div.wrapper-2N7X54.da-wrapper.categoryList-2Kzf65.da-categoryList > div.scrollerWrap-2lJEkd.da-scrollerWrap.list-3pzymt.da-list.scrollerThemed-2oenus.da-scrollerThemed.themeHidden-2yP93k > div {
 	background-color: rgba(0,0,0,0) !important;
 	}
-
-/* EMOJI SIZE */
-/* .emojiItemLarge-sa0X3P,.emojiItemImage-3ki-eV {height: 30px !important; width: 30px !important;}
- */
+	
+#emoji-picker-tab-panel > div.emojiPicker-3PwZFl.da-emojiPicker{column-count:8;}
+/* EMOJI SIZE IN PICKER*/
+/* :root {
+    --newemojisize: 32;
+}
+.emojiListRowLargeSize-3QTDek {
+    height: calc(var(--newemojisize) * 1px + 4px);
+    grid-template-columns: repeat(auto-fill, calc(var(--newemojisize) * 1px + 4px));
+}
+.emojiItemLarge-sa0X3P {
+    width: calc(var(--newemojisize) * 1px);
+    height: calc(var(--newemojisize) * 1px);
+}
+.emojiItemLarge-sa0X3P > * {
+    transform: scale(calc(var(--newemojisize) / 48));
+    transform-origin: 0 0;
+} */
  
+ 
+ /* MENTIONS UPDATE */
+ 
+.tab-ck0077.active-1MbGPa{background-color: rgb(30,30,30) !important;}
+.channelHeader-3Gd2xq,.messageContainer-gbhlwo,.tertiary-aMXF0g,.secondary-dIudih{background-color: rgb(30,30,30);}
+
  
  .emojiItem-14v6tW.emojiItemSelected-1aLkfV,.navButtonActive-3RPAJy,.categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover {background-color: rgb(40,40,40);}
  
