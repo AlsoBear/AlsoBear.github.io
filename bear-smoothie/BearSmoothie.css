@@ -170,8 +170,15 @@
  
  /* MENTIONS UPDATE */
  
-.tab-ck0077.active-1MbGPa{background-color: rgb(30,30,30) !important;}
-.channelHeader-3Gd2xq,.messageContainer-gbhlwo,.tertiary-aMXF0g,.secondary-dIudih{background-color: rgb(30,30,30);}
+.tab-ck0077.active-1MbGPa,.secondary-dIudih{background-color: rgb(25,25,25) !important;}
+.channelHeader-3Gd2xq,.messageContainer-gbhlwo,.tertiary-aMXF0g{background-color: rgb(30,30,30);}
+
+
+/* (pins and notes) */
+.messageGroupCozy-2iY6cT,.jumpButton-3DTcS_{background-color:rgb(30,30,30) !important;}
+.header-ykumBX{box-shadow: none;}
+.messageGroupWrapper-o-Zw7G{margin: 0 5px 10px;}
+.title-3pkaKd{color:var(--interactive-normal);}
 
  
  .emojiItem-14v6tW.emojiItemSelected-1aLkfV,.navButtonActive-3RPAJy,.categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover {background-color: rgb(40,40,40);}
@@ -187,7 +194,7 @@
 .header-ykumBX,.messagesPopout-24nkyi,.activityUserPopout-2yItg2,.contextMenu-HLZMGh,.scrollerWrap-2lJEkd,.flex-1xMQg5,.flex-1O1GKY,.body-ZAhrcj,
 .theme-dark .uploadModal-2ifh8j,.theme-dark .footer-3mqk7D,.footer-1kmXd4,.inner-2P4tQO,.popoutBottom-2GAFPg.noArrow-2foL9g,.headerSpotify-zpWxgT,
 .headerStreaming-2FjmGz{background-color: rgba(25,25,25,1) !important;}
-.messageGroupCozy-2iY6cT,.topSectionSpotify-1lI0-P,.headerXbox-3G-4PF,.menu-Sp6bN1,.theme-dark .calendarPicker-2yf6Ci .react-datepicker,
+.topSectionSpotify-1lI0-P,.headerXbox-3G-4PF,.menu-Sp6bN1,.theme-dark .calendarPicker-2yf6Ci .react-datepicker,
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header,.theme-dark .container-3ayLPN,.button-1ZiXG9.selected-LCBEAU,.da-topSectionStreaming{background-color: rgba(25,25,25,1) !important;}
 
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled,.wrapper-2qzCYF,.wrapper-2qzCYF.minimum-28Z35l{background-color: transparent;}
@@ -297,4 +304,4 @@
 .selectedScreen-3aLLjg,.overlayTitle-8IcS01{background: none;}
 .overlayTitle-8IcS01{padding: 0px;}
 /* USER POPOUT COLOR FIX */
-#app-mount > div:nth-child(6) > div.modal-3c3bKg.da-modal > div > div:nth-child(3) > div > div.body-3ND3kc.da-body > div > div {background-color: rgb(25,25,25)!important;
+#app-mount > div:nth-child(7) > div.modal-3c3bKg.da-modal > div > div > div.body-3ND3kc.da-body > div > div {background-color: rgb(25,25,25)!important;
