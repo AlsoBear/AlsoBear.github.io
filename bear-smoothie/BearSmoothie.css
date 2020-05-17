@@ -310,3 +310,7 @@
 #message-actions > div > div{background-color: rgb(25,25,25) !important;}
 /* Unread Indicator */
 .unread-3zKkbm{height: 7px; width:6px; left: 6px; border-radius: 15px 15px 15px 15px;}
+/* White status indicator fix*/
+.pointerEvents-2zdfdO[mask*= "url(#svg-mask-status-online)"]{fill: rgb(67, 181, 129) !important;}
+.pointerEvents-2zdfdO[mask*= "url(#svg-mask-status-idle)"]{fill: rgb(250, 166, 26) !important;}
+.pointerEvents-2zdfdO[mask*= "url(#svg-mask-status-dnd)"]{fill: rgb(240, 71, 71) !important;}
