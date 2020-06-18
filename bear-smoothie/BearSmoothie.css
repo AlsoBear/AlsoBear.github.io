@@ -141,13 +141,14 @@
  .backdrop-1wrmKB,.backdropWithLayer-3_uhz4{background-color:rgba(0,0,0,.23) !important; backdrop-filter: blur(1px);}
 
 /* EMOJI PICKER */
- .emojiPicker-3m1S-j,.contentWrapper-2txmjs,.categoryWrapper-UZ5YNj,.searchBar-5di9mG,.inspector-3LQtX9,.unicodeShortcut-15J8Ck,.header-8ilj5e,.diversitySelectorPopout-3FiGaM
+ .emojiPicker-3m1S-j,.contentWrapper-SvZHNd,.categoryWrapper-UZ5YNj,.searchBar-5di9mG,.inspector-3LQtX9,.unicodeShortcut-15J8Ck,.header-ywPcAE,.diversitySelectorPopout-3FiGaM
 {
 	background-color: rgba(25,25,25,1) !important;
  }
 #emoji-picker-tab-panel > div.emojiPicker-3PwZFl.da-emojiPicker > div.bodyWrapper-3G0FZZ.da-bodyWrapper > div > div > div > div,#emoji-picker-tab-panel > div.wrapper-2N7X54.da-wrapper.categoryList-2Kzf65.da-categoryList > div.scrollerWrap-2lJEkd.da-scrollerWrap.list-3pzymt.da-list.scrollerThemed-2oenus.da-scrollerThemed.themeHidden-2yP93k > div {
 	background-color: rgba(0,0,0,0) !important;
 	}
+#emoji-picker-tab-panel > div.wrapper-2Gsate.da-wrapper.categoryList-2Kzf65.da-categoryList > div.scrollerWrap-2lJEkd.da-scrollerWrap.list-donH_Z.da-list.scrollerThemed-2oenus.da-scrollerThemed.themeHidden-2yP93k > div {background-color: transparent !important;}
 	
 #emoji-picker-tab-panel > div.emojiPicker-3PwZFl.da-emojiPicker{column-count:8;}
 /* EMOJI SIZE IN PICKER*/
@@ -170,8 +171,10 @@
  
  /* MENTIONS UPDATE */
  
-.tab-ck0077.active-1MbGPa,.secondary-dIudih{background-color: rgb(25,25,25) !important;}
-.channelHeader-3Gd2xq,.messageContainer-gbhlwo,.tertiary-aMXF0g{background-color: rgb(30,30,30);}
+.tab-ck0077.active-1MbGPa,.secondary-dIudih,.scroller-tlc3kG{background-color: rgb(25,25,25) !important;}
+.channelHeader-3Gd2xq,.messageContainer-gbhlwo,.tertiary-aMXF0g,.messages-3G3erD{background-color: rgb(30,30,30);}
+.wrapper-232cHJ{background-color: rgb(50,50,50);}
+
 
 
 /* (pins and notes) */
@@ -194,8 +197,8 @@
 .header-ykumBX,.messagesPopout-24nkyi,.activityUserPopout-2yItg2,.contextMenu-HLZMGh,.scrollerWrap-2lJEkd,.flex-1xMQg5,.flex-1O1GKY,.body-ZAhrcj,
 .theme-dark .uploadModal-2ifh8j,.theme-dark .footer-3mqk7D,.footer-1kmXd4,.inner-2P4tQO,.popoutBottom-2GAFPg.noArrow-2foL9g,.headerSpotify-zpWxgT,
 .headerStreaming-2FjmGz{background-color: rgba(25,25,25,1) !important;}
-.topSectionSpotify-1lI0-P,.headerXbox-3G-4PF,.menu-Sp6bN1,.theme-dark .calendarPicker-2yf6Ci .react-datepicker,
-.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header,.theme-dark .container-3ayLPN,.button-1ZiXG9.selected-LCBEAU,.da-topSectionStreaming{background-color: rgba(25,25,25,1) !important;}
+.topSectionSpotify-1lI0-P,.headerXbox-3G-4PF,.menu-3sdvDG,.theme-dark .calendarPicker-2yf6Ci .react-datepicker,
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header,.theme-dark .container-3ayLPN,.button-1ZiXG9.selected-LCBEAU,.da-topSectionStreaming,.scroller-3BxosC{background-color: rgba(25,25,25,1) !important;}
 
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled,.wrapper-2qzCYF,.wrapper-2qzCYF.minimum-28Z35l{background-color: transparent;}
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day-name,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__current-month,
@@ -302,7 +305,7 @@
 /* CALL UI */
 #app-mount [class*="alignCenter-1dQNNs noWrap-3jynv6 background-ujHpbY da-background"],#app-mount [class*="noWrap-3jynv6 videoGridWrapper-2BDlMX da-videoGridWrapper"],.flexCenter-2Y_vCg{background-color: rgb(20,20,20) !important;}
 .gradientContainer-10lXLB{display:none;}
-.border-3dQmSY.speaking-WDn8Wm{	background-color: rgba(255,255,255,.07); box-shadow: inset 0 0 0 0px rgb(255,255,255);}
+.border-3dQmSY.speaking-WDn8Wm{	background-color: rgba(255,255,255,.07); box-shadow: none;}
 .selectedScreen-3aLLjg,.overlayTitle-8IcS01{background: none;}
 .overlayTitle-8IcS01{padding: 0px;}
 /* USER POPOUT COLOR FIX */
@@ -310,6 +313,8 @@
 /* More (message) option background hover fix */
 .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:hover:not(.hideInteraction-1iHO1O){background-color: rgb(25,25,25);}
 #message-actions > div > div{background-color: rgb(25,25,25) !important;}
+.button-F9qN4n{background-color: rgb(25,25,25);}
+.button-F9qN4n:hover{background-color: rgb(30,30,30);}
 /* Unread Indicator */
 .unread-3zKkbm{height: 7px; width:6px; left: 6px; border-radius: 15px 15px 15px 15px;}
 /* White status indicator fix*/
