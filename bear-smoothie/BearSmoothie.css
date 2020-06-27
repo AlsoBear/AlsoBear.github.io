@@ -322,3 +322,5 @@
 .pointerEvents-2zdfdO[mask*= "url(#svg-mask-status-online)"]{fill: rgb(67, 181, 129) !important;}
 .pointerEvents-2zdfdO[mask*= "url(#svg-mask-status-idle)"]{fill: rgb(250, 166, 26) !important;}
 .pointerEvents-2zdfdO[mask*= "url(#svg-mask-status-dnd)"]{fill: rgb(240, 71, 71) !important;}
+/* User and server settings */
+.sidebarRegionScroller-3MXcoP,.contentRegionScroller-26nc1e{background-color: rgb(20,20,20);}
