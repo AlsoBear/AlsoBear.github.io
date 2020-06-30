@@ -41,7 +41,7 @@
 .chat-3bRxxu form,.container-1UB9sr,.container-2Thooq,.container-3ayLPN,
 .container-PNkimc,.container-3baos1,.content-yTz4x3,.wrapper-1ucjTd,.footer-1fjuF6,.gameLibrary-TTDw4Y,
 .guildsWrapper-5TJh6A,.header-2o-2hj,.header-39GIC8,.headerBar-UHpsPw,
-.members-1998pB,.messagesWrapper-3lZDfY,.root-1BQpZw,.root-26DmKJ,.title-3qD0b-,	
+.members-1998pB,.members-1998pB>div,.messagesWrapper-3lZDfY,.root-1BQpZw,.root-26DmKJ,.title-3qD0b-,	
 .typeWindows-1za-n7,.video-1FfuMD,.da-panels,.da-collapsed,.da-scroller,.scroller-2FKFPG,
 .da-systemPad,.da-searchBar,.da-firefoxFixScrollFlex,.firefoxFixScrollFlex-cnI2ix,.da-sidebar,.da-scrollerWrap,.da-privateChannels,
 .da-userPopout,.da-headerTop,.da-directionColumn,.da-activityUserPopout,.da-body,.container-1r6BKw,.container-1r6BKw.themed-ANHk51,.button-14-BFJ,
@@ -116,11 +116,6 @@
 }
 
 
-.emojiPicker-3PwZF1{
-	-webkit-box-shadow: none;
-	box-shadow: none;	
-	background-color: rgba(0,0,0,.8);
- }
  
 .header-1TOWci {background: var(--backgroundDark) !important;} 
 .categories-1feg4n { width: 100%!important;}
@@ -141,7 +136,7 @@
  .backdrop-1wrmKB,.backdropWithLayer-3_uhz4{background-color:rgba(0,0,0,.23) !important; backdrop-filter: blur(1px);}
 
 /* EMOJI PICKER */
- .emojiPicker-3m1S-j,.contentWrapper-SvZHNd,.categoryWrapper-UZ5YNj,.searchBar-5di9mG,.inspector-3LQtX9,.unicodeShortcut-15J8Ck,.header-ywPcAE,.diversitySelectorPopout-3FiGaM
+.emojiPicker-3PwZFl,.contentWrapper-SvZHNd,.categoryWrapper-UZ5YNj,.searchBar-5di9mG,.inspector-3LQtX9,.unicodeShortcut-15J8Ck,.header-ywPcAE,.diversitySelectorPopout-3FiGaM
 {
 	background-color: rgba(25,25,25,1) !important;
  }
