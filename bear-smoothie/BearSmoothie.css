@@ -178,7 +178,9 @@
 .messageGroupWrapper-o-Zw7G{margin: 0 5px 10px;}
 .title-3pkaKd{color:var(--interactive-normal);}
 
- 
+
+#user-settings > div > div.sidebarRegion-VFTUkN.da-sidebarRegion > div > nav > div > div.info-1VyQPT.da-info > a > div{display: none !important;}
+
  .emojiItem-14v6tW.emojiItemSelected-1aLkfV,.navButtonActive-3RPAJy,.categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover {background-color: rgb(40,40,40);}
  
  .emoji-1PSQtY,.emoji{height:30px;width:30px;}
