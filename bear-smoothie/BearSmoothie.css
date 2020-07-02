@@ -242,7 +242,8 @@
 .theme-dark .lookLink-9FtZy-.colorPrimary-3b3xI6{transition: background-color .2s ease-out;}
 .theme-dark .lookLink-9FtZy-.colorPrimary-3b3xI6:hover{background-color:rgba(30,30,30,1);}
 .da-flex,#app-mount > div:nth-child(5) > div:nth-child(2) > div.modal-3c3bKg.da-modal > div.inner-1ilYF7.da-inner > div > div > div.scrollerWrap-2lJEkd.da-scrollerWrap.scrollerOuter-3FLELE.da-scrollerOuter.scrollerThemed-2oenus.da-scrollerThemed.themeGhost-28MSn0.scrollerTrack-1ZIpsv.da-scrollerTrack > div{background:transparent !important;}
-.titleBar-AC4pGV,.withFrame-haYltI  {background-color: rgba(20,20,20,1) !important; padding: 4px; position:relative; z-index:1000;}
+.titleBar-AC4pGV,.withFrame-haYltI  {background-color: rgba(20,20,20,1) !important; padding: 4px; position:relative; z-index:0;}
+.bg-h5JY_x{z-index: -1;}
 
 .newMessagesBar-mujexs{background-color: rgba(84, 107, 188);}
 .attachWrapper-2TRKBi{border-right: 1px solid transparent;}
@@ -319,3 +320,5 @@
 .pointerEvents-2zdfdO[mask*= "url(#svg-mask-status-dnd)"]{fill: rgb(240, 71, 71) !important;}
 /* User and server settings */
 .sidebarRegionScroller-3MXcoP,.contentRegionScroller-26nc1e{background-color: rgb(20,20,20);}
+/*horizontal serverlist pill fix*/
+#app-mount > div.app-1q1i1E.da-app > div > div.layers-3iHuyZ.da-layers.layers-3q14ss.da-layers > div > div > nav > div.scroller-2TZvBN.da-scroller.none-2Eo-qx.scrollerBase-289Jih{overflow:visible !important;}
