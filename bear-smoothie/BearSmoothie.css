@@ -330,4 +330,4 @@
 #channels > div > div:nth-child(1){display:none;}
 #channels{overflow:hidden scroll !important;}
 /*horizontal serverlist pill fix*/
-#app-mount .wrapper-1Rf91z.guilds-1SWlCJ [class*=pill] {top:-1.5rem !important;}
+#app-mount .wrapper-1Rf91z.guilds-1SWlCJ [class*=pill] {top:-1.5rem !important; height:5px;}
