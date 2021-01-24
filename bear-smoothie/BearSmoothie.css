@@ -235,6 +235,8 @@
 /*search update*/
 .searchResult-9tQ1uo:after{background-image:linear-gradient(180deg,transparent,var(--backgroundDark)) !important;}
 .searchResult-9tQ1uo:before{background-image:linear-gradient(0deg,transparent,var(--backgroundDark)) !important;}
+.searchResult-9tQ1uo,.theme-dark .tab-2j5AEF.selected-2LAck8{background-color: rgba(30,30,30,1);}
+.channelName-1JRO3C{background-color: rgba(0,0,0,0);}
 .theme-dark .option-96V44q:after{background:linear-gradient(90deg,transparent,rgba(20,20,20,.2)) !important;}
 .searchResultMessage-1fxgXh.hit-1fVM9e{box-shadow: 0 0 10px 6px var(--backgroundDark); border: 1px solid rgb(25,25,25);}
 .searchResultMessage-1fxgXh.hit-1fVM9e{background-color: rgb(25,25,25);}
@@ -350,6 +352,6 @@
 /* #channels > div > div:nth-child(1){display:none;}
 #channels{overflow:hidden scroll !important;} */
 /*horizontal serverlist pill fix*/
-#app-mount .wrapper-1Rf91z.guilds-1SWlCJ [class*=pill] {top:-1.5rem !important;}
+#app-mount .wrapper-1Rf91z.guilds-1SWlCJ [class*=pill] {top:-1.52rem !important;}
 /* screenshare */
 .card-2Mz_4z{background-color: rgb(25,25,25);}
