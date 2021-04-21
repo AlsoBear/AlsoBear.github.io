@@ -310,7 +310,7 @@
 .selectedScreen-3aLLjg,.overlayTitle-8IcS01{background: none;}
 .overlayTitle-8IcS01{padding: 0px;}
 /* USER POPOUT COLOR FIX */
-#app-mount > div:nth-child(7) > div.modal-3c3bKg.da-modal > div > div > div.body-3ND3kc.da-body > div > div {background-color: rgb(25,25,25)!important;}
+.vertical-V37hAW{background-color: rgb(25,25,25) !important;}
 .body-3iLsc4{background-color:rgb(25,25,25)!important;}
 /* More (message) option background hover fix */
 .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:hover:not(.hideInteraction-1iHO1O){background-color: rgb(25,25,25);}
@@ -371,4 +371,4 @@
 .searchHeader-2XoQg7,.scroller-3GIiMh{background-color: rgb(25,25,25);}
 
 /*role server settings*/
-.flex-1xMQg5{background-color: transparent !important;}
+.flex-1xMQg5{background-color: transparent;}
