@@ -46,7 +46,7 @@
 .typeWindows-1za-n7,.video-1FfuMD,.scroller-RmtA4e,.scroller-1Bvpku,.scroller-2FKFPG,.scroller-305q3I,
 .firefoxFixScrollFlex-cnI2ix,.container-1r6BKw,.container-1r6BKw.themed-ANHk51,.button-14-BFJ
 ,.channelName-wvgELL,.customHeader-f9DEJ_,.appMount-3lHmkl,.theme-dark .container-1D34oG,.searchBar-6Kv8R2,.scroller-1JbKMe,
-.actionButton-uPB8Fs,.theme-dark .message-2qRu38{background-color:var(--backgroundDark)!important}
+.actionButton-uPB8Fs,.theme-dark .message-2qRu38,.panels-j1Uci_{background-color:var(--backgroundDark)!important}
 ::selection {background-color: var(--selection-color);}
 #content-3at_AU:focus{background-color: rgba(0,0,0,.9)!important}
 #bda-qem-favourite-container, #bda-qem-twitch-container{border-color: #000000 !important;}
@@ -372,3 +372,7 @@
 
 /*role server settings*/
 .flex-1xMQg5{background-color: transparent;}
+
+/*loading screen?*/
+.cozy-12kSNU.wrapper-1F5TKx{display:none;}
+.wrapper-3vR61M{background: url(https://i.imgur.com/et5kTiH.gif) no-repeat; background-position: center bottom; background-size: 50%}
