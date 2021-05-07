@@ -17,8 +17,10 @@
  */
 
 :root {
+    --text-normal:#BBBBBB;
+    --header-primary:#BBBBBB;
     --main-color: #777777;
-    --hover-color: #b6b6ef;
+    --hover-color: #BBBBBB;
     --channel-color: #777777;
 	--channels-default: #777777;
 	--background-message-hover: rgba(0,0,0,0);
@@ -27,6 +29,7 @@
     --chatavatar-size: 50px;
 	--interactive-normal: #777777;
 	--interactive-active: #999999;
+    --interactive-hover: #BBBBBB;
 	--background-modifier-hover: rgba(0,0,0,0);
 	--background-mentioned-hover: rgba(47,47,47,.5);
 	--backgroundDark: rgba(20, 20, 20, 1);
@@ -221,7 +224,7 @@
 	background-color: #555555!important;
 	border: 3px solid transparent!important;
  }
-  .searchBar-6Kv8R2 .searchBarComponent-32dTOx,.searchBar-6Kv8R2:hover,.wrapper-3WhCwL {background-color: rgba(0,0,0,0) !important;}
+  .searchBar-6Kv8R2 .searchBarComponent-32dTOx,.searchBar-6Kv8R2:hover,.wrapper-3WhCwL,.theme-dark .option-96V44q .nonText-3CRkO0 {background-color: rgba(0,0,0,0) !important;}
   .lookInverted-2D7oAl.colorBrand-3pXr91,.lookInverted-2D7oAl.colorGreen-29iAKY,.lookFilled-1Gx00P.colorGreen-29iAKY,.buttonInvertedPurple-WtBglX {
     color: var(--main-color);
     background-color: rgba(25,25,25,1);
@@ -232,6 +235,9 @@
 
 
 /*search update*/
+.theme-dark .searchOption-zQ-1l6 .filter-3Y_im-,.theme-dark .resultsGroup-r_nuzN .header-2N-gMV{color:var(--text-normal);}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day{color:var(--text-normal);}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day:hover{color:var(--hover-color);}
 .searchResult-9tQ1uo:after{background-image:linear-gradient(180deg,transparent,var(--backgroundDark)) !important;}
 .searchResult-9tQ1uo:before{background-image:linear-gradient(0deg,transparent,var(--backgroundDark)) !important;}
 .searchResult-9tQ1uo,.theme-dark .tab-2j5AEF.selected-2LAck8{background-color: rgba(30,30,30,1);}
@@ -309,9 +315,12 @@
 .overlayTitle-8IcS01{padding: 0px;}
 /* USER POPOUT COLOR FIX */
 .vertical-V37hAW{background-color: rgb(25,25,25) !important;}
-.body-3iLsc4{background-color:rgb(25,25,25)!important;}
+.body-3iLsc4,.textarea-2r0oV8:focus{background-color:rgb(25,25,25)!important;}
+.headerName-fajvi9,.nameTag-m8r81H .username-2b1r56{color: var(--text-normal);}
+
 /* More (message) option background hover fix */
 .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:hover:not(.hideInteraction-1iHO1O){background-color: rgb(25,25,25);}
+.separator-2I32lJ{border-color: rgb(25,25,25);}
 #message-actions > div > div{background-color: rgb(25,25,25) !important;}
 .button-F9qN4n{background-color: rgb(25,25,25);}
 .button-F9qN4n:hover{background-color: rgb(30,30,30);}
@@ -348,6 +357,9 @@
 
 /*Tier 2 server fix*/	
 .bannerImage-3KhIJ6,.animatedContainer-1NSq4T{position:absolute; z-index:2;}
+.header-2V-4Sw{color: var(--main-color); box-shadow: none;}
+.header-2V-4Sw:hover{color: var(--hover-color);}
+
 /* #channels > div > div:nth-child(1){display:none;}
 #channels{overflow:hidden scroll !important;} */
 /*horizontal serverlist pill fix*/
@@ -377,3 +389,11 @@
 
 /*DM search bar*/
 .searchBar-6Kv8R2{display:none;}
+
+/*in-app text documents*/
+.hljs:not([class$='hljs']),.textContainer-C0szpm,.footer-2yA7Ep{background-color: rgb(30,30,30) !important;}
+.hljs:not([class$='hljs']),.textContainer-C0szpm,.footer-2yA7Ep{border-color: rgb(40,40,40);}
+.bd-codeblock-copy-btn{background-color: rgb(30,30,30) !important; color: #777777 !important;}
+
+/*username user panel*/
+.title-eS5yk3{color:var(--hover-color);}
