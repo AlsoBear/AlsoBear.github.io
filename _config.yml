@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "AlsoBear"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Nothing going on here, just a simple Discord theme."
+  bio              : "I have no clue how this works."
   location         : 
   email            :
   links:
@@ -112,9 +112,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "BearSmoothie github link"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/alsobear/bearsmoothie"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
