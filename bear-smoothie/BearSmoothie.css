@@ -33,6 +33,7 @@
 	--background-modifier-hover: rgba(0,0,0,0);
 	--background-mentioned-hover: rgba(47,47,47,.5);
 	--backgroundDark: rgba(20, 20, 20, 1);
+    --background-tertiary: rgb(30,30,30);
 	--selection-color: rgb(124, 157, 198);
 	--text-link:rgb(124, 157, 198);
 	--deprecated-text-input-border-hover:#555555;
@@ -315,7 +316,7 @@
 .overlayTitle-8IcS01{padding: 0px;}
 /* USER POPOUT COLOR FIX */
 .vertical-V37hAW{background-color: rgb(25,25,25) !important;}
-.body-3iLsc4,.textarea-2r0oV8:focus{background-color:rgb(25,25,25)!important;}
+.body-3iLsc4,.textarea-2r0oV8:focus,.headerFill-adLl4x{background-color:rgb(25,25,25)!important;}
 .headerName-fajvi9,.nameTag-m8r81H .username-2b1r56{color: var(--text-normal);}
 
 /* More (message) option background hover fix */
@@ -422,9 +423,12 @@ div[class*="noWrap-3jynv6 customHeader-f9DEJ_"]{background-color: var(--backgrou
 /*username user panel*/
 .title-eS5yk3{color:var(--hover-color);}
 
-/*reactions*/
+/*reactions and replies*/
 .reaction-1hd86g{background-color: transparent;}
 .reaction-1hd86g:hover{background-color: rgb(50,50,50); border-color: var(--main-color);}
+.container-2fRDfG{background-color: rgb(30,30,30); color: var(--hover-color);}
+.cozy-3raOZG .repliedMessage-VokQwo{ border-radius: 10px; transition: 150ms;}
+.cozy-3raOZG .repliedMessage-VokQwo:hover,.repliedTextPreview-2NBljf.clickable-1bVtEA:hover{color: #DDDDDD;}
 
 /*server popout menu*/
 .colorDefault-2K3EoJ.focused-3afm-j{color: var(--hover-color);}
@@ -448,3 +452,12 @@ div[style*="rgb(114, 118, 125)"]{background-color: rgb(50,50,50) !important;}
 
 /*emoji popout*/
 .horizontal-1ae9ci>.flex-1xMQg5:last-child{background-color: rgb(30,30,30,0) !important;}
+
+/*announcements channel*/
+.wrapper-39oAo3{background-color: transparent;}
+
+/*friends pending*/
+div[class="flex-1xMQg5 flex-1O1GKY vertical-V37hAW flex-1O1GKY directionColumn-35P_nr justifyCenter-3D2jYp alignCenter-1dQNNs noWrap-3jynv6 wrapper-r-6rrt"],.scroller-9moviB{background-color: transparent !important;}
+
+/*discovery panel? see ya later nerd*/
+[href="/discovery"]{display: none;}
