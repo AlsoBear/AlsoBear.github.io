@@ -316,8 +316,11 @@
 .overlayTitle-8IcS01{padding: 0px;}
 /* USER POPOUT COLOR FIX */
 .vertical-V37hAW{background-color: rgb(25,25,25) !important;}
-.body-3iLsc4,.textarea-2r0oV8:focus,.headerFill-adLl4x{background-color:rgb(25,25,25)!important;}
+.body-3iLsc4,.textarea-2r0oV8:focus,.headerNormal-1l1Znk,.headerTop-2y3V6H{background-color: rgb(25,25,25)!important; border-color: rgb(25,25,25);}
 .headerName-fajvi9,.nameTag-m8r81H .username-2b1r56{color: var(--text-normal);}
+.input-2_SIlA{background-color: rgb(25,25,25);}
+/*profile banner without image*/
+.profileBanner-33-uE1{visibility: hidden;}
 
 /* More (message) option background hover fix */
 .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:hover:not(.hideInteraction-1iHO1O){background-color: rgb(25,25,25);}
@@ -461,3 +464,4 @@ div[class="flex-1xMQg5 flex-1O1GKY vertical-V37hAW flex-1O1GKY directionColumn-3
 
 /*discovery panel? see ya later nerd*/
 [href="/discovery"]{display: none;}
+
