@@ -465,3 +465,6 @@ div[class="flex-1xMQg5 flex-1O1GKY vertical-V37hAW flex-1O1GKY directionColumn-3
 /*discovery panel? see ya later nerd*/
 [href="/discovery"]{display: none;}
 
+/*server boost modal*/
+.theme-dark .perksModal-fSYqOq{background-color: var(--backgroundDark);}
+
