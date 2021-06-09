@@ -228,6 +228,9 @@ div[style*="rgb(114, 118, 125)"]{background-color: rgb(30,30,30) !important;}
 
 
 /*---------------------------------------------------- 4. CHAT ----------------------------------------------------*/
+/* emoji */
+.emoji{width: 1.9em; height: 1.9em;}
+
 /* mentions */
 .theme-dark .wrapper-3WhCwL{background-color: transparent;}
 .theme-dark .wrapper-3WhCwL,.theme-dark .mentioned-xhSam7 .mention.interactive:hover, .theme-light .mentioned-xhSam7 .mention.interactive:hover{color:var(--selection-color);}
