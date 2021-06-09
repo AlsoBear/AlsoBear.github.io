@@ -321,7 +321,17 @@ div[style*="rgb(114, 118, 125)"]{background-color: rgb(30,30,30) !important;}
 /* emoji info popout */
 .emojiSection-3Fb9ix,.guildSection-1EoFKd{background-color: rgb(25,25,25) !important;}
 
+/* delete message */
+.theme-dark .message-2qRu38{background-color: rgb(30,30,30) !important;}
 
+/* reply */
+.replying-1x3H0T:before{background-color: rgb(70,70,70);}
+.replying-1x3H0T{background-color: rgb(70,70,70,.15);}
+.replyBar-1YLQ2F{background-color: rgb(30,30,30);}
+
+/* auto complete */
+.theme-dark .autocomplete-1vrmpx,.categoryHeader-O1zU94{background-color: rgb(25,25,25);}
+.theme-dark .selected-1Tbx07{background-color: rgb(40,40,40);}
 
 /*---------------------------------------------------- 5. CALL & VIDEO ----------------------------------------------------*/
 .chat .private-channel-call, .private-channel-call .private-channel-call-video, .private-channel-call .private-channel-call-video-wrapper, .video-1kutKI, .video-1FfuMD, .videoBackground-3AY_fu, .videoBackgroundTransition-3wpOSl, .videoWrapper-2wbLD-{background: rgba(23,23,23,.9)!important;}
