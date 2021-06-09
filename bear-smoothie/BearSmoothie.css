@@ -357,6 +357,8 @@ div[style*="rgb(114, 118, 125)"]{background-color: rgb(30,30,30) !important;}
 /*---------------------------------------------------- 6. HOME ----------------------------------------------------*/
 /* active now */
 .scroller-2ZPeAD,.emptyCard-1RJw8n{background-color: var(--backgroundDark); border-color: var(--backgroundDark);}
+.itemCard-v9viV7{background-color: rgb(25,25,25); border-color: rgb(30,30,30);}
+.itemCard-v9viV7:hover{background-color: rgb(35,35,35) !important;}
 
 /* friends list */
 .actionButton-uPB8Fs{background-color: var(--backgroundDark);}
