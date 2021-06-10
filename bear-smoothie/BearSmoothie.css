@@ -358,11 +358,11 @@ div[style*="rgb(114, 118, 125)"]{background-color: rgb(30,30,30) !important;}
 /* active now */
 .scroller-2ZPeAD,.emptyCard-1RJw8n{background-color: var(--backgroundDark); border-color: var(--backgroundDark);}
 .itemCard-v9viV7{background-color: rgb(25,25,25); border-color: rgb(30,30,30);}
-.itemCard-v9viV7:hover{background-color: rgb(35,35,35) !important;}
+.itemCard-v9viV7:hover{background-color: rgb(30,30,30) !important;}
+.section-2gLsgF{background-color: rgb(30,30,30);}
 
 /* friends list */
-.actionButton-uPB8Fs{background-color: var(--backgroundDark);}
-.actionButton-uPB8Fs:hover{background-color: rgb(30,30,30);}
+.actionButton-uPB8Fs{background-color: transparent;}
 .peopleListItem-2nzedh{border-color: transparent;}
 .peopleListItem-2nzedh:hover{background-color: rgb(30,30,30);}
 .secondary-dIudih{color: var(--interactive-normal);}
