@@ -71,6 +71,11 @@
 /* scrollbar */
 .auto-Ge5KZx::-webkit-scrollbar {width: 0px;}
 
+/* username flicker on server hover fix */
+:root, span {
+    backface-visibility: hidden;
+}
+
 
 
 
@@ -94,7 +99,7 @@
 .header-1TKi98,.content-1LAB8Z,.theme-dark .footer-2gL1pp,.theme-dark .modal-6GHvdM .tabBarContainer-37hZsr{background-color: rgb(25,25,25) !important; border-color: rgb(25,25,25)}
 
 /* bear logo */
-/* https://i.imgur.com/XI542cK.png  bear with twirl */
+/* https://i.imgur.com/XI542cK.png  bear with twirl*/
 #app-mount .wrapper-1BJsBx .childWrapper-anI2G9 {
     background: url(https://i.imgur.com/v6cyUMK.png) center/contain no-repeat; 
 	position: absolute;
