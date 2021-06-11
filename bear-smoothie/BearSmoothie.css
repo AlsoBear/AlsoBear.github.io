@@ -390,7 +390,7 @@ div[class="flex-1xMQg5 flex-1O1GKY vertical-V37hAW flex-1O1GKY directionColumn-3
 /*---------------------------------------------------- 7. USER ----------------------------------------------------*/
 /* user popout */
 .input-cIJ7To.focused-1mmYsC, .input-cIJ7To:focus,.theme-dark .lookFilled-1h1y05.select-1Pkeg4:focus{border-color: var(--deprecated-text-input-border);}
-.userPopout-xaxa6l{background-color: rgb(25,25,25) !important;}
+.popoutBanner-19WKGg{background-color: rgb(25,25,25) !important;}
 .body-3HBlXn,.footer-1N3bR3,.headerNormal-1mX3KY,.headerTop-2cWpdB{background-color: rgb(25,25,25)!important; border-color: rgb(25,25,25);}
 .headerName-fajvi9,.nameTag-m8r81H .username-2b1r56{color: var(--text-normal);}
 .input-2_SIlA{background-color: rgb(25,25,25);}
@@ -408,7 +408,11 @@ div[class="flex-1xMQg5 flex-1O1GKY vertical-V37hAW flex-1O1GKY directionColumn-3
 .profileBanner-33-uE1{visibility: hidden;}
 
 /* profile */
-.infoScroller-1Qu30O,.header-4zuFdR,.tabBarContainer-37hZsr,.body-r6_QPy,.activity-2M3PRB{background-color: rgb(25,25,25); border-color: rgb(25,25,25);}
+.tabBarContainer-37hZsr,.body-r6_QPy,.activity-2M3PRB{background-color: rgb(25,25,25); border-color: rgb(25,25,25);}
+div.topSection-y3p-_D > header {background-color: rgb(25,25,25);}
+
+/* profile banner */
+.profileBanner-33-uE1{background-color: rgb(25,25,25) !important;}
 
 /* username */
 .title-eS5yk3{color:var(--hover-color);}
