@@ -266,8 +266,11 @@ div[style*="rgb(114, 118, 125)"]{background-color: rgb(30,30,30) !important;}
 /* server invite */
 .cursorDefault-331ZcI{background-color: rgb(25,25,25);}
 
-/* website link */
-.grid-1nZz7S {background-color: rgb(30,30,30);}
+/* website embed */
+.grid-1nZz7S {background-color: rgb(25,25,25);}
+
+/* website embed left border */
+.embedFull-2tM8--{border-color: var(--selection-color) !important;}
 
 /* file attachment */
 .attachment-33OFj0{background-color: rgb(30,30,30); border-color: rgb(40,40,40);}
