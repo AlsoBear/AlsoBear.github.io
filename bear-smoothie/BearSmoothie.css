@@ -176,6 +176,7 @@ div[class*="marginBottom20-32qID7"]{background-color: var(--backgroundDark) !imp
 .searchHeader-2XoQg7,.scroller-3GIiMh{background-color: rgb(25,25,25);}
 
 /* search results */
+.theme-dark .queryContainer-RKFJW-{background-color: rgb(25,25,25);)}
 .searchResult-9tQ1uo:after{background-image:linear-gradient(180deg,transparent,var(--backgroundDark)) !important;}
 .searchResult-9tQ1uo:before{background-image:linear-gradient(0deg,transparent,var(--backgroundDark)) !important;}
 .searchResult-9tQ1uo,.theme-dark .tab-2j5AEF.selected-2LAck8{background-color: rgba(30,30,30,1);}
@@ -257,6 +258,10 @@ div[style*="rgb(114, 118, 125)"]{background-color: rgb(30,30,30) !important;}
 .emojiItem-14v6tW.emojiItemSelected-1aLkfV,.navButtonActive-3RPAJy,.categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover {background-color: rgb(40,40,40);}
 .navButtonActive-1MkytQ{background-color: rgb(25,25,25); color: rgb(210,210,210);}
 
+/* sticker picker */
+.packHeader-NLJ7S5,.inspector-S2gM3e{background-color: rgb(25,25,25);}
+.sticker-3HpuRA:hover,.sticker-3HpuRA:active,.stickerInspected-2EM4w- .inspectedIndicator-59EII8{background-color: rgb(45,45,45);}
+
 /* status emoji */
 .activityEmoji-2GDGtF{height:20px;width:20px;}
 
@@ -274,6 +279,9 @@ div[style*="rgb(114, 118, 125)"]{background-color: rgb(30,30,30) !important;}
 
 /* file attachment */
 .attachment-33OFj0{background-color: rgb(30,30,30); border-color: rgb(40,40,40);}
+
+/* audio attachment */
+.theme-dark .wrapperAudio-1jDe0Q{background-color: rgb(30,30,30); border-color: rgb(40,40,40);}
 
 /* chat window */
 .scrollableContainer-2NUZem, .webkit-HjD9Er {background-color: rgba(0,0,0,0); transition: .3s background-color;}
@@ -394,7 +402,7 @@ div[class="flex-1xMQg5 flex-1O1GKY vertical-V37hAW flex-1O1GKY directionColumn-3
 /* user popout */
 .input-cIJ7To.focused-1mmYsC, .input-cIJ7To:focus,.theme-dark .lookFilled-1h1y05.select-1Pkeg4:focus{border-color: var(--deprecated-text-input-border);}
 .popoutBanner-19WKGg{background-color: rgb(25,25,25) !important;}
-.body-3HBlXn,.footer-1N3bR3,.headerNormal-1mX3KY,.headerTop-2cWpdB{background-color: rgb(25,25,25)!important; border-color: rgb(25,25,25);}
+.body-3HBlXn,.footer-3UKYOU,.headerNormal-1mX3KY,.headerTop-3vNv-a,.bodyInnerWrapper-26fQXj,.divider-ewBQKj{background-color: rgb(25,25,25)!important; border-color: rgb(25,25,25);}
 .headerName-fajvi9,.nameTag-m8r81H .username-2b1r56{color: var(--text-normal);}
 .input-2_SIlA{background-color: rgb(25,25,25);}
 
