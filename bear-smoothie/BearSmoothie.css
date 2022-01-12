@@ -127,6 +127,9 @@
     display: none;
 }
 
+/* guild separator */
+.guildSeparator-a4uisj{display: none;}
+
 
 
 /*---------------------------------------------------- 3. SERVER ----------------------------------------------------*/
@@ -234,6 +237,10 @@ div[style*="rgb(114, 118, 125)"]{background-color: rgb(30,30,30) !important;}
 .list-1uSVgu,.browser-mnQ1T7{background-color: rgb(30,30,30);}
 .icon-mJhEWn{background-color: rgb(40,40,40);}
 .chat-1-OBC7{background-color: var(--backgroundDark);}
+
+/* thread dropdown */
+.container-2rzKKA{background-color: rgb(30,30,30); border-color: rgb(40,40,40);}
+.theme-dark .list-1uSVgu .tabBar-3N44FC .tab-1tp4jL.active-3WMEyE{background-color: rgb(45,45,45); padding-top: 4px;}
 
 /* new thread */
 .messagesWrapper-1AttHb, .scroller-oTbAWP{background-color: var(--backgroundDark);}
