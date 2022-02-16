@@ -176,7 +176,7 @@ div[class*="marginBottom20-315RVT"]{background-color: var(--backgroundDark) !imp
 .menu-1QACrS,.theme-dark .calendarPicker-sDhzdi .react-datepicker,.theme-dark .calendarPicker-sDhzdi .react-datepicker__header,.theme-dark .container-2McqkF,.button-3bklZh.selected-69H4ua{background-color: rgba(25,25,25,1) !important;}
 
 /* search bar */
-.searchBar-zdmu7v:hover{background-color: rgba(0,0,0,.15) !important}
+.searchBar-jGtisZ, .searchBar-jGtisZ:hover{background-color: rgba(0,0,0,.15) !important}
 .searchHeader-1r_ZSh,.scroller-3iiyhZ{background-color: rgb(25,25,25);}
 
 /* search results */
@@ -185,11 +185,11 @@ div[class*="marginBottom20-315RVT"]{background-color: var(--backgroundDark) !imp
 .searchResult-O9NDji:before{background-image:linear-gradient(0deg,transparent,var(--backgroundDark)) !important;}
 .searchResult-O9NDji,.theme-dark .tab-2j5AEF.selected-2LAck8{background-color: rgba(30,30,30,1);}
 .channelName-3w2Y3c{background-color: rgba(0,0,0,0);}
-.theme-dark .option-2KkUJO:after{background:linear-gradient(90deg,transparent,rgba(20,20,20,.2)) !important;}
+.theme-dark .option-ayUoaq:after{background:linear-gradient(90deg,transparent,rgba(20,20,20,.2)) !important;}
 .searchResultMessage-1fxgXh.hit-1fVM9e{box-shadow: 0 0 10px 6px var(--backgroundDark); border: 1px solid rgb(25,25,25);}
 .searchResultMessage-1fxgXh.hit-1fVM9e{background-color: rgb(25,25,25);}
 .jumpButton-1ol35X{background-color: transparent;}
-.lookInverted-2mDUMi.colorBrand-I6CyqQ:hover,.theme-dark .option-2KkUJO.selected-rZcOL- {background-color: rgba(30,30,30,1);}
+.lookInverted-2mDUMi.colorBrand-I6CyqQ:hover,.theme-dark .option-3u1gRt.selected-rZcOL- {background-color: rgba(30,30,30,1);}
 .theme-dark .lookLink-15mFoz.colorPrimary-2AuQVo{transition: background-color .2s ease-out;}
 .theme-dark .lookLink-15mFoz.colorPrimary-2AuQVo:hover{background-color:rgba(30,30,30,1);}
 .da-flex,#app-mount > div:nth-child(5) > div:nth-child(2) > div.modal-2LBig1.da-modal > div.inner-1ilYF7.da-inner > div > div > div.scrollerWrap-2lJEkd.da-scrollerWrap.scrollerOuter-3FLELE.da-scrollerOuter.scrollerThemed-2oenus.da-scrollerThemed.themeGhost-28MSn0.scrollerTrack-1ZIpsv.da-scrollerTrack > div{background:transparent !important;}
@@ -413,8 +413,8 @@ div[style*="rgb(114, 118, 125)"]{background-color: rgb(30,30,30) !important;}
 
 /* friends list */
 .actionButton-3-B2x-{background-color: transparent;}
-.peopleListItem-u6dGxF{border-color: transparent;}
-.peopleListItem-u6dGxF:hover{background-color: rgb(30,30,30);}
+.interactiveSelected-29CP8y,.interactive-iyXY_x:hover{background-color: rgb(30,30,30);}
+.interactiveSelected-29CP8y:hover{background-color: rgb(40,40,40);}
 .secondary-2bzKEX{color: var(--interactive-normal);}
 
 /* top box-shadow */
@@ -604,6 +604,6 @@ div[class*="noWrap-hBpHBz customHeader-f9DEJ_"]{background-color: var(--backgrou
 .theme-dark .root-g14mjS{background-color: rgb(25,25,25);}
 
 /* send button */
-.lookBlank-3eh9lL{background: transparent; color: var(--interactive-normal); margin-top: 8px;}
-.lookBlank-3eh9lL:hover{color: var(--interactive-hover); transition: 0.25s ease-in-out;}
+.lookBlank-21BCro{background: transparent; color: var(--interactive-normal); margin-top: 8px;}
+.lookBlank-21BCro:hover{color: var(--interactive-hover); transition: 0.25s ease-in-out;}
 
