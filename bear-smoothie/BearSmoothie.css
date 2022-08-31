@@ -48,7 +48,7 @@
 4. CHAT  
 5. CALL & VIDEO   
 6. HOME 
-7. USER 
+7. USER
 8. USER & SERVER SETTINGS
 9. MISC & PLUGINS
 */
@@ -431,11 +431,12 @@ div[class="flex-2S1XBF flex-3BkGQD vertical-3aLnqW flex-3BkGQD directionColumn-3
 
 /*---------------------------------------------------- 7. USER ----------------------------------------------------*/
 /* user popout */
-.input-2g-os5.focused-1AtTHC, .input-2g-os5:focus,.theme-dark .lookFilled-1h1y05.select-1Pkeg4:focus{border-color: var(--deprecated-text-input-border);}
-.popoutBanner-3cqRD9{background-color: rgb(25,25,25) !important;}
-.body-2wLx-E,.footer-3naVBw,.headerNormal-1mX3KY,.headerTop-3GPUSF,.bodyInnerWrapper-2bQs1k,.divider-1wtgZ3{background-color: rgb(25,25,25)!important; border-color: rgb(25,25,25);}
+.userPopoutInnerPremiumWithoutBanner-na5t_W,.userPopoutInnerWithBanner-wsoegj,.userPopoutInnerNonPremium-3zrFkp,
+.overlayBackground-arbZMT,.profileBadges-31rDHI,.divider-1tWBgZ{background: rgb(25,25,25);}
+.rolePill-2Lo5dd{background-color: rgb(45,45,45) !important;}
+.overlayBackground-arbZMT{margin: 24px 5px 5px;}
 .headerName-fajvi9,.nameTag-H6kSJ0 .username-3JLfHz{color: var(--text-normal);}
-.input-2z42oC{background-color: rgb(25,25,25);}
+.messageInputContainer-2rGDH8{background-color: rgb(30,30,30); border: none;}
 
 /* add note */
 .textarea-_59yqs:focus,.textarea-_59yqs:focus{background-color: rgb(25,25,25); border: 1px solid var(--deprecated-text-input-border);}
