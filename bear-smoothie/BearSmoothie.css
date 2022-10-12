@@ -160,8 +160,9 @@ div[class*="marginBottom20-315RVT"]{background-color: var(--backgroundDark) !imp
 .numberBadge-37OJ3S{background-color: rgba(50,50,50,.9) !important; color: var(--interactive-active) !important;}
 
 /* members */
+.member-48YF_l, .members-3WRCEx{background-color: rgb(20,20,20);}
 .container-1oeRFJ:hover{background-color: rgb(30,30,30);}
-.container-1oeRFJ.selected-1-Z6gm{background-color: rgb(30,30,30);} 
+.container-1oeRFJ.selected-1-Z6gm,{background-color: rgb(30,30,30);} 
 .container-1oeRFJ.selected-1-Z6gm:hover{background-color: rgb(40,40,40); cursor: pointer;} 
 
 /* pins and notes */
@@ -431,7 +432,7 @@ div[class="flex-2S1XBF flex-3BkGQD vertical-3aLnqW flex-3BkGQD directionColumn-3
 
 /*---------------------------------------------------- 7. USER ----------------------------------------------------*/
 /* user popout */
-.userPopoutInnerPremiumWithoutBanner-na5t_W,.userPopoutInnerWithBanner-wsoegj,.userPopoutInnerNonPremium-3zrFkp,
+.userProfileInnerPremiumWithoutBanner-37uB4Q,.userProfileInnerWithBanner-3CJ1Og,.userProfileInnerNonPremium-1XjSjn,
 .overlayBackground-arbZMT,.profileBadges-31rDHI,.divider-1tWBgZ{background: rgb(25,25,25);}
 .rolePill-2Lo5dd{background-color: rgb(45,45,45) !important;}
 .overlayBackground-arbZMT{margin: 24px 5px 5px;}
@@ -592,8 +593,8 @@ div[class*="noWrap-hBpHBz customHeader-f9DEJ_"]{background-color: var(--backgrou
 [href="/store"]{display: none;}
 
 /* server boost modal */
-.theme-dark .perksModal-fSYqOq{background-color: var(--backgroundDark);}
-.theme-dark .ctaBar-2UsjF2,.theme-dark .perk-2WeBWW,.theme-dark .tierBody-16Chc9,.theme-dark .tierHeaderLocked-1s2JJz{background-color: rgb(30,30,30);}
+.theme-dark .perksModal-CLcR1c{background-color: var(--backgroundDark);}
+.theme-dark .ctaBar-Nhk8yY,.theme-dark .perk-19D_HN,.theme-dark .tierBody-16Chc9,.theme-dark .tierHeaderLocked-1s2JJz{background-color: rgb(30,30,30);}
 
 /* server discovery */
 .sidebar-1tnWFu,.scroller-3j5xK2{background-color: var(--backgroundDark);}
