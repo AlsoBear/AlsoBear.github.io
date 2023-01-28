@@ -30,6 +30,7 @@
 	--interactive-normal: #777777;
 	--interactive-active: #999999;
     --interactive-hover: #BBBBBB;
+	--background-primary: var(--backgroundDark);
 	--background-modifier-hover: rgba(0,0,0,0);
 	--background-mentioned-hover: rgba(47,47,47,.5);
 	--backgroundDark: rgba(20, 20, 20, 1);
@@ -61,10 +62,10 @@
 .chat-2ZfjoI,.chat-2ZfjoI form,.container-1-ERn5,.container-YkUktl,.members-3WRCEx,.members-3WRCEx>div,.title-31SJ6t,
 .typeWindows-2-g3UY,.scroller-1ox3I2,.scroller-3X7KbA,.container-ZMc96U,.container-ZMc96U.themed-Hp1KC_,.button-12Fmur,
 .appMount-2yBXZl,.panels-3wFtMD,.searchBar-zdmu7v,.customScroller-m1-jZn,.scroller-WSmht3,.tabBody-2dgbAs,.container-1oAagU,
-.container-2o3qEW, .membersWrap-3NUR2t{background-color: var(--backgroundDark);}
+.container-2o3qEW, .membersWrap-3NUR2t{background-color: var(--backgroundDark) !important;}
 
 /* category and role container */
-.container-q97qHp {background-color: transparent;}
+.container-q97qHp {background-color: transparent !important;}
 
 /* text selection */
 ::selection {background-color: var(--selection-color);}
@@ -72,10 +73,10 @@
 /* scrollbar */
 .auto-2K3UW5::-webkit-scrollbar {width: 0px;}
 
-/* username flicker on server hover fix */
+/* username flicker on server hover fix 
 :root, span {
     backface-visibility: hidden;
-}
+}*/
 
 
 
@@ -306,7 +307,7 @@ div[style*="rgb(114, 118, 125)"]{background-color: rgb(30,30,30) !important;}
 .theme-dark .wrapperAudio-1Bzv_Z{background-color: rgb(30,30,30); border-color: rgb(40,40,40);}
 
 /* chat window */
-.scrollableContainer-15eg7h, .webkit-QgSAqd {background-color: rgba(0,0,0,0); transition: .3s background-color;}
+.scrollableContainer-15eg7h, .webkit-QgSAqd {background-color: rgba(0,0,0,0) !important; transition: .3s background-color;}
 
 /* chat text box */
 .wrapper-2vIMkT,.form-3gdLxP, .form-3gdLxP::before, .emojiButton-3FRTuj {background: transparent !important; box-shadow: none; background-color: transparent;}
@@ -474,9 +475,9 @@ div.topSection-13QKHs > header {background-color: rgb(25,25,25);}
 
 /*---------------------------------------------------- 8. USER & SERVER SETTINGS ----------------------------------------------------*/
 /* settings theme */
-.detailsBlock-FoDTGA,.theme-dark .feature-2IUcBI,.theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B,.lookFilled-yCfaCM.colorBrand-I6CyqQ,.container-3EtAkD,.descriptionBox-1EKQKL,
+.detailsBlock-24pLFz,.theme-dark .feature-2IUcBI,.theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B,.lookFilled-yCfaCM.colorBrand-I6CyqQ,.container-3EtAkD,.descriptionBox-1EKQKL,
 .upsellContainer-L9xv7w,.upsellFooter-ZYsio_,.developerPortalCtaWrapper-2XNafh,.backgroundAccent-2YeFtZ,.featureCard-1RR4Tl,.checklistItem-37OOck,.checklistHeader-1KWcEY,.header-2Y0-A-,
-.exampleContainer-2O-nVK,.previewContainer-1SS3uO,.directionColumn-3pi1nm,.descriptionInput-3b30C8,.tierHeaderContent-2-YfvN,.theme-dark .tierBody-x9kBBp{background-color: rgb(25,25,25) !important;}
+.exampleContainer-2O-nVK,.previewContainer-1SS3uO,.directionColumn-3pi1nm,.descriptionInput-3b30C8,.tierHeaderContent-2-YfvN,.theme-dark .tierBody-x9kBBp, .noItemsCard-5EOcCl {background-color: rgb(25,25,25) !important;}
 .sidebarRegionScroller-FXiQOh,.contentRegionScroller-2_GT_N{background-color: rgb(20,20,20);}
 .background-3d_SjE{background-color:rgb(25,25,25);}
 .fieldList-in8WkP{background-color:rgb(28,28,28);}
@@ -521,7 +522,7 @@ div[class*="noWrap-hBpHBz customHeader-f9DEJ_"]{background-color: var(--backgrou
 [fill="rgba(114, 118, 125, 1)"]{fill: rgb(30,30,30) !important;}
 
 /* notice */
-.formNotice-2nS8ey{background-color: rgb(30,30,30);}
+.formNotice-2nS8ey{background-color: rgb(30,30,30); !important}
 
 /* subscription image */
 .hero-1aNo0v{filter: brightness(70%);}
@@ -609,3 +610,5 @@ div[class*="noWrap-hBpHBz customHeader-f9DEJ_"]{background-color: var(--backgrou
 .lookBlank-21BCro{background: transparent; color: var(--interactive-normal); margin-top: 8px;}
 .lookBlank-21BCro:hover{color: var(--interactive-hover); transition: 0.25s ease-in-out;}
 
+/* Server Details - DevilBro */
+.flex-2S1XBF{background-color: transparent !important;}
